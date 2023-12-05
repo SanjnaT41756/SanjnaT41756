@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sanjna, a third year undergraduate at UCLA studying Linguistics and Computer Science. I'm interested in cybersecurity  and software development.
+
+
+
 <!--
 **SanjnaT41756/SanjnaT41756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
