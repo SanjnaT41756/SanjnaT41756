@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sanjna, a third year undergraduate at UCLA studying Linguistics and Computer Science. I'm interested in cybersecurity  and software development.
+I'm Sanjna, a third-year undergraduate at UCLA studying Linguistics and Computer Science. I'm interested in cybersecurity  and front-end development.
 
 
 
