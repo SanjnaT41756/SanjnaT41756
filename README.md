@@ -38,6 +38,10 @@
 ## 📫 Get in Touch!
 [LinkedIn](https://linkedin.com/in/sanjna-tailor) 
 
+## 🫶Check out my website!
+https://sanjnat41756.github.io/portfolio/
+
+
 
 <!--
 **SanjnaT41756/SanjnaT41756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
