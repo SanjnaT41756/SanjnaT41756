@@ -1,8 +1,13 @@
 # Hi, I'm Sanjna! 👋
 
-🎓 **Linguistics and Computer Science Student @ UCLA ( c/o 2025)**  
-💡 Passionate about combining computer science with linguistics and accessible computer science education.  
-🏆 1st Place Winner - 2024 MLH QWER Hacks!  
+
+💻 **Jr. Software Engineer at Las Vegas Sands Digital Services**
+
+🎓 UCLA Linguistics & Computer Science Class of 2025
+
+💡 Passionate about the intersection of technology, language, and education
+
+🌱 Actively exploring opportunities in front-end, NLP, and edtech
 
 ---
 
