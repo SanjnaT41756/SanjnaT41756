@@ -4,6 +4,8 @@
 
 💻 Previous Jr. Software Engineer at Las Vegas Sands Digital Services
 
+🎓 SANS Cyber Academy, GIAC GFACT
+
 🎓 UCLA Linguistics & Computer Science Class of 2025
 
 💡 Passionate about the intersection of technology, language, and education
