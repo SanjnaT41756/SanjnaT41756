@@ -1,19 +1,18 @@
 # Hi, I'm Sanjna! 👋
 
+⭐**Actively seeking opportunities in SWE, Cybersecurity, and EdTech**⭐
 
-💻 **Jr. Software Engineer at Las Vegas Sands Digital Services**
+💻 Previous Jr. Software Engineer at Las Vegas Sands Digital Services
 
 🎓 UCLA Linguistics & Computer Science Class of 2025
 
 💡 Passionate about the intersection of technology, language, and education
 
-🌱 Actively exploring opportunities in front-end, NLP, and edtech
-
 ---
 
 ## 🔧 Skills & Technologies
-- **Programming Languages:** Python, React, C, Kotlin, JavaScript, HTML, CSS, TypeScript  
-- **Tools & Frameworks:** Node.js, PixiJS, Firebase, Google Cloud, Linux, Figma, Jira  
+- **Programming Languages:** C, C++, Python, React, C#, Kotlin, JavaScript, HTML, CSS, TypeScript  
+- **Tools & Frameworks:** GitHub Copilot, Node.js, PixiJS, Firebase, Google Cloud, Linux, Figma, Jira, Netlify, WordPress, Visual Studio, Windsurf
 
 ---
 
@@ -21,9 +20,10 @@
 - **[enchir](https://github.com/SanjnaT41756/enchir):** Web extension aiding new internet users with intuitive guidance and task simplification.  
   - **Tech Stack:** React, TypeScript, ChakraUI, Node.js, MongoDB  
   - **Role:** Full Stack Developer  
-- **[Classbuddi](https://github.com/jainsujay02/classbuddi):** Platform connecting university students based on shared courses/interests.  
-  - **Tech Stack:** Firebase, React, Material UI, Node.js  
-  - **Role:** Full Stack Developer  
+- **[Verdant](https://github.com/naketriskirk/cs188-climate):** Browser extension displaying real-time brand sustainability scores
+  - Integrated with the official **Good On You** API
+  - **Tech Stack:** JavaScript, React
+  - **Role:** Researcher, Partner Communications, Full Stack Developer  
 - **[Pen-Pals](https://github.com/uclaacm/pen-pals):** Interactive game for kids to learn Python programming concepts.  
   - **Tech Stack:** React, TypeScript, SCSS  
   - **Role:** Frontend Developer & Project Manager  
@@ -31,6 +31,8 @@
 ---
 
 ## 🌟 Work & Leadership
+- **Jr. Software Engineer @ Las Vegas Sands Digital Services:**  
+  Trained OpenCV-based C++ vision models for a vision confirmation system used in hardware validation workflows
 - **Client Engineering Intern @ Las Vegas Sands Digital Services:**  
   Contributed to front-end projects, boosting live update efficiency by 80%.  
 - **Project Manager @ ACM Teach LA:**  
